@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "ntu61002", "url": "https://github.com/ntu61002" },
-    ]
+      } ]
   },
   "interests": [
     { "name": "Gaming" },
