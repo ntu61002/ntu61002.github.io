@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Norman Tu",
-    "label": "Student",
+    "label": "Shidler Undergraduate",
     "picture": "https://github.com/ntu61002.png",
     "email": "ntu@hawaii.edu",
     "phone": "808-675-8114",
@@ -9,13 +9,13 @@
     "summary": "I am studying for a B.S. in Accounting and Management Information Systems in Shidler at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "location": { "address": "", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "ntu61002", "url": "https://github.com/ntu61002" },
-      ]
+      { "network": "github", "username": "ntu61002", "url": "http://github.com/ntu61002" }
+    ]
   },
   "interests": [
     { "name": "Gaming" },
     { "name": "Drawing" },
-    { "name": "Coding" },
+    { "name": "Coding" }
   ],
   "skills": [
     {
