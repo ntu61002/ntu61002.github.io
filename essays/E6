@@ -1,0 +1,51 @@
+---
+layout: essay
+type: essay
+title: "Reflecting on Assignment 3"
+# All dates must be YYYY-MM-DD format!
+date: 2023-12-5
+published: true
+labels:
+  - MIS
+---
+
+<h1>1. Briefly describe your system (e.g. A store selling Pokemon game cards)</h1>
+<p> A store selling clothes (Shirts, hoodies, pants, and hats). </p>
+
+<h1>2. Any notable shortcomings, bugs, problems, or additional features not implemented?</h1>
+<p>I was able to fulfill all the requirements and the extra credit requirement. I have a very basic website design. I heavily relied on w3schools tutorials as a reference and professor ports Zoom sessions to fix some problems I was having. I was also watching a lot of youtube tutorials to help with the website design but I didn’t reference them since I mainly used them for ideas. </p>
+
+<h1>3. Describe what you are most proud of about your system:</h1>
+<p>I’m most proud of my navbar and the shopping cart. These were the biggest problems in my code and I had trouble carrying out what I wanted. I was able to figure these out with the help of w3schools tutorials, forums, and some youtube videos. Although I can make a lot of design improvements, I am very glad that I was able to finish.   </p>
+
+<h1>4. Describe what you are least happy with your system:</h1>
+<p>I really wanted to attempt some of the other individual IRs and they seemed cool to implement into the site. However, I didn’t have enough time as I spent a lot of time writing the code and I had to make time to test the code for any bugs that may occur. </p>
+
+<h1>5. How was developing this assignment different than assignment #2?</h1>
+<p>I found this assignment to be more difficult as I was having trouble implementing the nodemailer into my code. I wasn’t sure how to get the code to send an email after every purchase to the users email. </p>
+
+<h1>6. When you ran into a problem, what did you do to address it?</h1>
+<p>When I ran into a problem I would use the internet and chatGPT for help. Although I didn’t want to use ChatGPT, at times it was helpful but I had to know what to use. But when I found tutorials on w3schools it was also a big help in writing my code. </p>
+
+
+<h1>7. Describe what worked well in doing this assignment?</h1>
+<p>I referenced the mail code from the example and that helped me out a lot. I changed some things so that it worked better with my code but I was also only able to do that because of W3 schools. </p>
+
+
+<h1>8. Describe what did not work well in doing this assignment?</h1>
+<p>I started this assignment late because I didn’t want to change anything until we finished the Cookies and sessions lab. After I started working on it I realized that I didn’t need to wait to finish the lab because there were areas that I could have worked on. For example, the navbar could have been worked on as I was learning about the cookies and sessions. </p>
+
+
+<h1>9. What did you learn from doing this assignment?</h1>
+<p>I improved my research skills as I knew what to look for and what to trust. I was reading forums and I realized that they weren’t the best tool as everyone had different problems. I learned to use w3 schools and other sites to write my code. </p>
+
+<h1>10. If you could go back in time and do things differently, what would you change?</h1>
+<p>I would like to add some dropdown menus in my code as I feel that will make the site look a lot nicer. Instead of having the navbar in the middle, I would have a dropdown navbar menu in the corner of the site. This would save more space and be better to look at. </p>
+
+<h1>11. Estimate the % of time you spent (a) thinking about how to do something, (b) writing code (but do not include testing), (c) testing and debugging.</h1>
+<p>I spent 40% thinking about how to do something, 40% writing code, and 20% testing and debugging. When I was working on this code, I had a bad habit of working until I felt burnt out. This was a bad way to work as when there were problems I had trouble thinking outside the box. However, when I took a break to calm down I was able to think of new solutions to my problems. I don’t recommend my work style as feeling burnt out is very ineffectual and constantly slamming your head into the code won’t help you figure it out.</p>
+
+<h1>12. Assign an estimated percentage on the amount each team member contributed to teh assignment (including yourself) and explain briefly your rationale for the percentage breakdown. Be sure to include an overview of what specifically you and your partners contributed (e.g. “I worked on the security and my partner 1 worked on personalization”).</h1>
+<p>I worked alone. </p>
+
+
